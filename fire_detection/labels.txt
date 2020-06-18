@@ -1,0 +1,2 @@
+0: "Non-Fire"
+1: "Fire"
